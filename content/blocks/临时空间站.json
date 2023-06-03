@@ -1,0 +1,14 @@
+{
+	"type":"CoreBlock",
+	"name":"临时空间站",
+	"description": "可被占领，为占领方提供视野与5单位上限",
+	"requirements": [],
+	"unitType": "incite",
+	"buildVisibility": "sandboxOnly",
+	"health": 48000,
+	"armor":1000,
+	"itemCapacity": 2000,
+	"size": 4,
+	"unitCapModifier": 5,
+	"category": "effect"
+}

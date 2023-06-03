@@ -1,0 +1,12 @@
+{
+	"name": "钢稀硅",
+	"description": "半导体电磁晶体，质地硬脆，用于极端环境电子设备以及流体存储与运输",
+	"details":"",
+	"cost": 0.75,
+	"color": "DEDEDEFF",
+	"alwaysUnlocked":false,   
+	"hardness":3,
+	"healthScaling": 1,
+	"explosiveness": 0.1,
+	"research": "稀土"
+}

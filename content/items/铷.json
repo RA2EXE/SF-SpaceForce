@@ -1,0 +1,13 @@
+{
+	"name": "铷",
+	"description": "优质磁电能力，用于磁力产生器、阻滞锁定器的建造。",
+	"details":"",
+	"cost": 1.12,
+	"color": "DEDEDEFF",
+	"alwaysUnlocked":true,   
+	"hardness":3,
+	"charge":0.2,
+	"healthScaling": 0.8,
+	"explosiveness": 0.1,
+	"research": "中央空间站"
+}

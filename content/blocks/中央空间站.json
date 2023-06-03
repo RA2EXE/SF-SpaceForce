@@ -1,0 +1,18 @@
+{
+	"type":"CoreBlock",
+	"name":"中央空间站",
+	"description": "主要战斗空间站，装甲厚重需要保护",
+	"requirements": [],
+	"research": {
+		"root":true,
+		"name": "泰伯利亚-空天军"
+		},
+	"unitType": "emanate",
+	"buildVisibility": "sandboxOnly",
+	"health": 96000,
+	"armor":2400,
+	"itemCapacity": 5000,
+	"size": 6,
+	"unitCapModifier": 8,
+	"category": "effect"
+}

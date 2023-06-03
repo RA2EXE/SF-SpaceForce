@@ -1,0 +1,8 @@
+{
+	"name": "SF-空天军",
+	"author":"VSCA",
+	"version":"be0.0.1",
+	"minGameVersion":"144",
+	"description":"",
+	"dependencies":["饱和火力"]
+}

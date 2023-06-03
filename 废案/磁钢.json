@@ -1,0 +1,13 @@
+{
+	"name": "磁钢",
+	"description": "质地坚硬，延展性良好，用于高级磁能装置",
+	"cost":2,
+	"healthScaling": 0.8,
+	"alwaysUnlocked":false,
+	"color": "7595D2FF",
+	"radioactivity": 0,
+	"explosiveness": 0,
+	"flammability": 0,
+	"charge":0.25,
+	"research": "铷"
+}
