@@ -1,0 +1,10 @@
+{
+	"name": "稀土",
+	"description": "富含多种金属元素，用于前沿产业加工",
+	"details":"",
+	"cost": 0,
+	"color": "DEDEDEFF",
+	"alwaysUnlocked":false,   
+	"hardness":1,
+	"research": "铷"
+}

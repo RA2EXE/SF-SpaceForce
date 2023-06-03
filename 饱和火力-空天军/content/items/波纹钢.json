@@ -1,0 +1,14 @@
+{
+	"name": "波纹钢",
+	"description": "新型空天材料，耐冷耐热，\n[gray]这可比莱普便宜多了[]\n多用于空天舰体与真空环境下的建筑。",
+	"details":"由于温压挤压工艺与流体腐蚀带来的奇特表面纹理而得名波纹钢",
+	"cost": 1.12,
+	"color": "DEDEDEFF",
+	"alwaysUnlocked":false,   
+	"hardness":3,
+	"healthScaling": 1.55,
+	"radioactivity": 0,
+	"explosiveness": 0,
+	"flammability": 0,
+	"research": "锶"
+}
